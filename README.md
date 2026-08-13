@@ -39,7 +39,7 @@ Atualmente estudo Java e Spring Boot, buscando minha primeira oportunidade como 
 ### 🎓 Formação
 
 📘 **Graduação:** Sistemas de Informação — **FURB**
-🗓️ Período: 2025 - 2029
+🗓️ Período: 2025 - 2028
 
 📘 **Bootcamp - Inteligência Artificial** — WK Sistemas
 🗓️ Concluído em Dezembro/2024 · Carga horária: 12h
