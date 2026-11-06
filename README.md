@@ -1,6 +1,6 @@
 <h1 align="left">Olá, eu sou o Guilherme 👋</h1>
 
-<p align="left"><b>Automação de Processos & Inteligência Artificial</b> · Python · Agentes de IA</p>
+<p align="left"><b>Automação de Processos & Inteligência Artificial</b> · Python · AI Agents</p>
 
 Estudante de Sistemas de Informação na **FURB** e há 6 anos na **WK Sistemas**, empresa de ERP. Gosto de transformar processos manuais e repetitivos em soluções automatizadas com IA.
 
@@ -10,7 +10,7 @@ Na WK, uni produção audiovisual e programação: desenvolvi em **Python** uma 
 
 ### 🤖 Foco atual
 
-- **Agentes de IA** e automação de tarefas com LLMs
+- **AI Agents** e automação de tarefas com LLMs
 - **Automação de processos** com Python: interface, arquivos, vídeo e integrações
 - **Fundamentos de dados**: pipelines, ETL, Data Lake e Data Warehouse
 - Em busca de oportunidades em **IA, Automação ou Dados**
@@ -23,7 +23,7 @@ Na WK, uni produção audiovisual e programação: desenvolvi em **Python** uma 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-412991?style=for-the-badge&logo=robotframework&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=robotframework&logoColor=white)
 
 **Back-end e dados**
 
