@@ -1,81 +1,72 @@
-### 👋 Olá, seja bem-vindo(a) ao meu perfil!
+<h1 align="left">Olá, eu sou o Guilherme 👋</h1>
 
-Sou estudante de Sistemas de Informação (FURB) e desenvolvedor Back-End em formação, apaixonado por tecnologia, Inteligência Artificial e dados. Atualmente estudo IA, Java e Spring Boot, buscando minha primeira oportunidade.
+<p align="left"><b>Automação de Processos & Inteligência Artificial</b> · Python · Agentes de IA</p>
 
----
+Estudante de Sistemas de Informação na **FURB** e há 6 anos na **WK Sistemas**, empresa de ERP. Gosto de transformar processos manuais e repetitivos em soluções automatizadas com IA.
 
-### 🚀 Sobre Mim
-
-- 🎓 Estudante de Sistemas de Informação — FURB, Blumenau/SC
-- ☕ Foco atual: **Java + Spring Boot**
-- 🤖 Estudando **Inteligência Artificial**, com foco em **agentes de IA e chatbots**
-- 🗄️ Explorando **modelagem e integração de bancos de dados** (MySQL, PostgreSQL)
-- 📌 Em busca da primeira oportunidade profissional na área de TI
+Na WK, uni produção audiovisual e programação: desenvolvi em **Python** uma automação que executa testes e produz os vídeos de demonstração e treinamento do ERP, usando automação de interface, processamento de vídeo e uma skill personalizada para o **Claude Code**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🤖 Foco atual
 
-**⚙️ Back-End**
+- **Agentes de IA** e automação de tarefas com LLMs
+- **Automação de processos** com Python: interface, arquivos, vídeo e integrações
+- **Fundamentos de dados**: pipelines, ETL, Data Lake e Data Warehouse
+- Em busca de oportunidades em **IA, Automação ou Dados**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+---
 
+### 🛠️ Stack
 
-**🤖 Inteligência Artificial**
+**IA e automação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agentes_de_IA-412991?style=for-the-badge&logo=openaigym&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-412991?style=for-the-badge&logo=robotframework&logoColor=white)
 
-**🗄️ Banco de Dados**
+**Back-end e dados**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**🧰 Ferramentas e Versionamento**
+**Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🎓 Formação
+### 💼 Projetos
 
-📘 **Graduação:** Sistemas de Informação — **FURB**
-🗓️ Período: 2025 - 2028
-
-📘 **Treinamento - Inteligência Artificial na WK** — WK Sistemas
-🗓️ Concluído em Agosto/2026 · Competências: Evolução e fundamentos da IA, chatbots, assistentes e agentes de IA agêntica
-
-📘 **Java e POO, Spring Boot, JPA, Hibernate, MySQL e muito mais** — Udemy
-🗓️ Concluído em Agosto/2026 · Carga horária: 54h
-
-📘 **Bootcamp - Inteligência Artificial** — WK Sistemas
-🗓️ Concluído em Dezembro/2024 · Carga horária: 12h
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| 🎬 **Automação de testes e vídeos de ERP com IA** | Executa os fluxos do sistema, grava e processa os vídeos de demonstração e usa uma skill do Claude Code para validar e gerar os entregáveis. Projeto interno da WK Sistemas. | Python · Claude Code · automação de interface |
+| 🎫 **[helpdesk-api](https://github.com/Babelg/helpdesk-api)** | API REST de gestão de chamados com máquina de estados, filtros, Swagger e migrações versionadas. | Java · Spring Boot · PostgreSQL · Flyway · Docker |
+| 📚 **[Algoritmos-de-Estruturas-FURB](https://github.com/Babelg/Algoritmos-de-Estruturas-FURB)** | Listas, pilhas e árvores implementadas do zero na disciplina da FURB. | Java |
 
 ---
 
-### 💼 Projetos em Destaque
+### 🎓 Formação e certificados
 
-🔹 **[helpdesk-api](https://github.com/Babelg/helpdesk-api)**
-API REST para gestão de chamados internos — Java, Spring Boot, JPA/Hibernate e **PostgreSQL**
-
-🔹 **[Algoritmos-de-Estruturas-FURB](https://github.com/Babelg/Algoritmos-de-Estruturas-FURB)**
-Estruturas de dados e algoritmos em Java — estudos acadêmicos na FURB
-
----
-
-### 📊 Minhas Estatísticas
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Babelg&theme=radical&hide_border=true)
+- **Sistemas de Informação** · FURB · 2025–2028 (cursando)
+- **Fundamentos de Engenharia de Dados** · Data Science Academy · 2026 · 24 h
+- **Inteligência Artificial na WK** (IA agêntica, chatbots e assistentes) · WK Sistemas · 2026
+- **Java e POO, Spring Boot, JPA e Hibernate** · Udemy · 2026 · 54 h
+- **Bootcamp de Inteligência Artificial** · WK Sistemas · 2024 · 12 h
 
 ---
 
-### 📫 Contatos
+### 📊 Atividade
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Babelg&theme=default&hide_border=true)
+
+---
+
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-babel-machado-25a4531ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guibabelmachado@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Babelg)
-
