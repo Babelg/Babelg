@@ -44,7 +44,7 @@ Na WK, uni produção audiovisual e programação: desenvolvi em **Python** uma 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| 🎬 **[Radar REC](https://github.com/Babelg/Radar_Rec)** | Automação de testes e de vídeos narrados de treinamento de um ERP, conduzida por IA. Projeto interno da WK Sistemas, já em uso. | Python · Claude Code · automação de interface |
+| 🎬 **[Radar REC](https://github.com/Babelg/Radar_Rec)** | Duas IAs em sequência: uma opera o ERP para testar e gravar vídeos narrados de treinamento, a outra adiciona animações. Projeto interno da WK Sistemas, já em uso. | Python · Claude Code · automação de interface |
 | 🎫 **[helpdesk-api](https://github.com/Babelg/helpdesk-api)** | API REST de gestão de chamados com máquina de estados, filtros, Swagger e migrações versionadas. | Java · Spring Boot · PostgreSQL · Flyway · Docker |
 | 📚 **[Algoritmos-de-Estruturas-FURB](https://github.com/Babelg/Algoritmos-de-Estruturas-FURB)** | Listas, pilhas e árvores implementadas do zero na disciplina da FURB. | Java |
 
